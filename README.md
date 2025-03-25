@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/aayushii9602">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Passionate+Programmer;Cp+Enthu;Chess+Fanatic&center=true&width=500&height=50&color=blue&vCenter=true&size=20"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Passionate+Programmer;Frontend+Developer;Cp+Enthu;Chess+Fanatic&center=true&width=500&height=50&color=blue&vCenter=true&size=20"></a>
 </p>
 
 - 🔭 I’m currently working with **Dassualt Systemes**
