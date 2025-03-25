@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayushi</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aayushii9602&label=Profile%20views&color=blue&style=flat-square" alt="aayushii9602" />
@@ -16,11 +16,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Passionate+Programmer;Cp+Enthu;Chess+Fanatic&center=true&width=500&height=50&color=blue&vCenter=true&size=20"></a>
 </p>
 
-- 🔭 I’m currently working on **VisaKwik**
-- 🌱 I’m currently learning **Java and system design**
-- 👯 I’m looking to collaborate on **backend projects**
+- 🔭 I’m currently working with **Dassualt Systemes**
+- 🌱 I’m currently learning **LangChain and NLP**
+- 👯 I’m looking to collaborate on **full-stack projects**
 - 📝 I regularly write articles on [Medium](https://medium.com/@aayushiiiii09)
-- 💬 Ask me about **DSA, backend development**
+- 💬 Ask me about **DSA, Web development and NLP**
 - 📫 How to reach me **aayushiiiii09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -56,7 +56,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -72,6 +71,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+
 </p>
 
 <p>
