@@ -84,7 +84,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushii9602&show_icons=true&locale=en&theme=chartreuse-dark" alt="aayushii9602" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushii9602&theme=chartreuse-dark" alt="aayushii9602" />
-</p>
